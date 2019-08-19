@@ -1,2 +1,2 @@
-# nubank
+# nubank 💜
 Clone app Nubank 
